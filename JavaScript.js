@@ -1,5 +1,4 @@
-<script>
-  // Data video ID dan URL video
+// Data video ID dan URL video
   const videoData = {
     "2025": "https://github.com/bayurifa/videoID/raw/refs/heads/main/Jumpscare.mp4",
     "cantik": "https://github.com/bayurifa/videoID/raw/refs/heads/main/Jumpscare.mp4",
@@ -32,4 +31,3 @@
       videoPlayer.load();
     }
   });
-</script>
